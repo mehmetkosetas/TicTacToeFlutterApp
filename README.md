@@ -1,4 +1,4 @@
-# assignment2
+# TicTacToe
 
 A new Flutter project.
 
